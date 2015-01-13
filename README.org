@@ -1,0 +1,5 @@
+* About This Repository
+
+  Example code snippets written in visual C++ 6
+
+  For self use only
